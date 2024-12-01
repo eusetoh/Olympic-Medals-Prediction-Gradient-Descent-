@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 
 #read data, data from https://github.com/dataquestio/project-walkthroughs/tree/master/linear_regression
-teams = pd.read_csv("C:/Users/Eusebius/Desktop/Self-Initiated Projects/Olympic Medal Mahine Learning Python/teams.csv")
+teams = pd.read_csv("<insert your file path here>.csv")
 teams
 
 #select only relevant columns as new table
